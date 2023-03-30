@@ -17,3 +17,4 @@ Tests latency, throughput, and success rate of eth_call and eth_blockNumber acro
 - Update note 1542
 - Update note 2702
 - Update note 8101
+- Update note 2203
