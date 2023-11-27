@@ -7,3 +7,4 @@
 # fix 8549
 # optimize 4684
 # optimize 6706
+# optimize 6727
