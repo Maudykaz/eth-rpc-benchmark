@@ -1,1 +1,2 @@
 requests
+eth-abi==2.1.6
